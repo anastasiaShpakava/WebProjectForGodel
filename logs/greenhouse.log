@@ -1,0 +1,2 @@
+[ERROR] 2020-02-25 00:04:40.159 [main] com.godel.test.dao.BaseDao 40 - SQL exception (request or table failed): java.sql.SQLSyntaxErrorException: Table 'service.director' doesn't exist
+[ERROR] 2020-02-25 00:08:26.273 [main] com.godel.test.dao.BaseDao 39 - SQL exception (request or table failed): java.sql.SQLException: Column 'directorId' not found.
