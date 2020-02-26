@@ -1,0 +1,1 @@
+insert into godel_tech.film(film_id, director_id, name, release_date, genre) VALUES(10, 5, "Bumblebee", "2018-03-18", "Adventure");
